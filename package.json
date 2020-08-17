@@ -9,7 +9,7 @@
         "start": "electron ."
     },
     "dependencies": {
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "request": "^2.88.0"
     }
 }
